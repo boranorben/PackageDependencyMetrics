@@ -21,4 +21,4 @@ File | Instability | Abstractness | Distance from main sequence |
 > doc-files is not Java file so it cannot calculate Instability, Abstractness and Distance from main sequence. Therefore it return NaN
 
 ## Chart
-![](https://imgur.com/v5rwLjJ.jpg)
+![](https://imgur.com/df4kSJx.jpg)
